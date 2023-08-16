@@ -6,51 +6,35 @@
 	<dict>
 		<key>Headers/EaseLiveSDK-Swift.h</key>
 		<data>
-		Luz0uNsBC9Eo9d78Ut5YxeH6ZpU=
+		HtkmGAWKddSP4Wh7/83BfUwvxVo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Y5Kj+M5k9L9WsyIgYA5ciezX0hw=
-		</data>
-		<key>Modules/EaseLiveSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<data>
-		3TuwaY29RebvmSdzBLHWUOPbrJQ=
-		</data>
-		<key>Modules/EaseLiveSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		hPPC2pahPOv4x2qfaYB6s/zuxXQ=
+		GnvjG8XIBCYCGiGvhdql+UCHl1Y=
 		</data>
 		<key>Modules/EaseLiveSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		OX6Q83ZRcWHx2nPkIlmJcWbBUwU=
+		Y4Z02813EJfPUT68U6TpgmBqg1E=
 		</data>
 		<key>Modules/EaseLiveSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hPPC2pahPOv4x2qfaYB6s/zuxXQ=
+		e7Rc2iRFxBcw3gsXN2/FcHRNQCg=
 		</data>
 		<key>Modules/EaseLiveSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2/HQQpRgOM4DIbGH9MLx7ScLVes=
-		</data>
-		<key>Modules/EaseLiveSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<data>
-		3TuwaY29RebvmSdzBLHWUOPbrJQ=
-		</data>
-		<key>Modules/EaseLiveSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		e6w+3ocV00SyaAO/IyMw2hFr9+I=
+		/2OlPh+hdCSp5hZeAZIzTjkZaso=
 		</data>
 		<key>Modules/EaseLiveSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		7ajnxW/QuSKz0eOJ5yxMx6IaW04=
+		IvrCHHsaRkU11cZPqYCLCdBKTSU=
 		</data>
 		<key>Modules/EaseLiveSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		e6w+3ocV00SyaAO/IyMw2hFr9+I=
+		i7wp01PkX8x5b+MW/tSfYFcnvt0=
 		</data>
 		<key>Modules/EaseLiveSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9TBnH2qQT1FkQEvQb1uhomZparM=
+		dCETDcL9e9JzgXZwsHAmO+j0nME=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,77 +51,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EuTsSb5CWsf7Qqg8cPGhjp/gwKnA1c43fsF2RfucrFs=
-			</data>
-		</dict>
-		<key>Modules/EaseLiveSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			82oNRyEwDhwtqNEkeQwwrbbPFTmXWWR9GMkAFvyjcXY=
-			</data>
-		</dict>
-		<key>Modules/EaseLiveSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jq+VJbkVVbVNIVd3r7JPVMm9DXzoIyoSr25UFy/xwKc=
+			fv/haK3r3Qq/7L04XbOfUrJzqbObOuQuh4jk7/Run64=
 			</data>
 		</dict>
 		<key>Modules/EaseLiveSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P6WAmPeuZYgLwvKH9Kl6Lpl9j68YXPIj4d72yl47RuM=
+			Kelbxvn7hTPttUcNPeEgK0VDt6z/k9akogmRJ0LmrGA=
 			</data>
 		</dict>
 		<key>Modules/EaseLiveSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jq+VJbkVVbVNIVd3r7JPVMm9DXzoIyoSr25UFy/xwKc=
+			b7E1IwL7JRQCXghnkQtlT/ONXY++mhbFNjNNKghpOQw=
 			</data>
 		</dict>
 		<key>Modules/EaseLiveSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GOvCa8a3537uhgYpE0TnVMZAojj+GOUVIipHM8AASBg=
-			</data>
-		</dict>
-		<key>Modules/EaseLiveSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			82oNRyEwDhwtqNEkeQwwrbbPFTmXWWR9GMkAFvyjcXY=
-			</data>
-		</dict>
-		<key>Modules/EaseLiveSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xLjzGJblO+fRNO1bth3tAprFhUmbrR2teZ26NkIOU44=
+			5K6InqahpLpRiR0LlwKPfiR2F1H59kPeFPL7veDT5E4=
 			</data>
 		</dict>
 		<key>Modules/EaseLiveSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ob4DCrQC16w23nt03fDm+BqHiJU7QI/y5hAZIbnRp70=
+			u8M6JSLVqIY4yqJV3kj1I2WtL1+SSr2g6BVXjoLJl2A=
 			</data>
 		</dict>
 		<key>Modules/EaseLiveSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xLjzGJblO+fRNO1bth3tAprFhUmbrR2teZ26NkIOU44=
+			I9rHoucwc7faE+DH2Ju+1D6YUiol42wMj2QjVbEtvbM=
 			</data>
 		</dict>
 		<key>Modules/EaseLiveSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mkcZlzk0s8rmtf+d7S2r4EnIwgxgIwiqZDL5GlhYpdc=
+			+CRyhSQyhN/+w8dfJnqE7skGMWXtTj/0WTRkzoiJXH0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

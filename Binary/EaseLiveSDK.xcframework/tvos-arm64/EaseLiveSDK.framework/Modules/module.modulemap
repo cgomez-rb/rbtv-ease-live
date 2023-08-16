@@ -1,4 +1,0 @@
-framework module EaseLiveSDK {
-  header "EaseLiveSDK-Swift.h"
-  requires objc
-}
