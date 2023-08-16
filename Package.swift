@@ -11,7 +11,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "EaseLiveSDK",
-            url: "Binary/EaseLiveSDK.xcframework"
+            path: "Binary/EaseLiveSDK.xcframework"
         )
     ]
 )
